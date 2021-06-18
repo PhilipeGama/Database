@@ -1,7 +1,9 @@
-# Database
+# MPIBD
 
-MPIBD
-conteúdo ministrado na aula com o Professor Marcelo Charmi 
+- CURSO SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMA
+- Disciplina: MC-MODELAGEM, PROJETO E IMPLEMENTAÇÃO DE BD 
+- Ano: 2019/01 
+- Professor: Marcelo Charmi 
 
-Conteúdo SQL
-conteúdo estudado
+
+
